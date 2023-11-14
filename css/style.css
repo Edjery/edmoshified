@@ -385,7 +385,7 @@ a {
 }
 
 .plan--popular {
-    transform: scale(1);
+    transform: scale(1.1);
 }
 
 .plan--popular .card__header {
@@ -501,8 +501,6 @@ a {
 .grid {
     display: grid;
 }
-
-
 
 @media screen and (min-width: 768px) {
     .grid--1x2 {
@@ -784,7 +782,6 @@ a {
     margin: 0 auto;
 }
 
-/* Features */
 .feature {
     gap: 4rem;
     margin: 12rem 0;
