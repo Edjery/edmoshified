@@ -2,7 +2,7 @@
 Welcome to one of the projects from Mosh's training courses!
 
 ## Project Details
-This project is part of the Ultimate HTML & CSS course offered by Mosh Hamedani. You can find more information about the course here.
+This project is part of the Ultimate HTML & CSS course offered by Mosh Hamedani. You can find more information about the course in https://codewithmosh.com/.
 
 ## Description
 This project serves as a practical application of the concepts covered in the course. By completing this project, you'll gain hands-on experience and reinforce your understanding of HTML and CSS fundamentals.
